@@ -1,4 +1,4 @@
-![logo]https://www.hkhh88.com/wp-content/uploads/2024/05/180-98.png
+![logo](https://github.com/NeroNN-code/hh88/blob/main/180-98.png)
 
 ---
 title: "【HH88香港官方娛樂城】一文睇清：點樣玩盡真人娛樂、拎著數優惠，再用獨家AI數據工具提升勝率！"
