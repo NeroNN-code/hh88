@@ -58,14 +58,13 @@ HH88 徹底解決咗呢個問題。我哋唔單止係一個提供頂級真人百
 <a href="https://hh88hk.hk/register" class="cta-button cta-success">立即註冊領獎金</a>
 </div>
 ![logo](https://public.bnbstatic.com/static/content/square/images/b90b37169e934e94ba0aaf1fd05b13d9.png)
----
 
 ## **<span id="safety">安全第一：點解 HH88 係你最「穩陣」嘅選擇？</span>**
 
 我哋睇過 [HH88 幫助中心](https://hh88hk.hk/help) 嘅數據，發現玩家除咗關心點樣開始玩之外，最多人問嘅就係「遊戲公平性如何保證？」(8,650 次瀏覽) 7。呢個係一個極高嘅信任門檻。HH88 嘅策略唔係叫你「相信我」，而係叫你「相信國際權威機構」。
 
 ### **權威牌照 \+ 獨立審計：我哋唔係「自己人Check自己人」**
-
+![logo](https://public.bnbstatic.com/static/content/square/images/f5db488973274759bc0ce2bde34766f6.png)
 HH88 擁有[多項國際權威機構認證](https://hh88hk.hk/about) 8。
 
 <div class="info-box animate-on-scroll">
