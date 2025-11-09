@@ -8,7 +8,7 @@ keywords: "HH88,真人娱乐,百家乐,老虎机,体育博彩,数据分析,AI预
 
 <div align="center">
 
-![HH88 Logo]([https://via.placeholder.com/200x100/0b57d0/ffffff?text=HH88](https://hh88hk.hk/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75&dpl=dpl_F5hXXwoXkqnUHkkdqA5XVk5c4bFG))
+![HH88 Logo](https://hh88hk.hk/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75&dpl=dpl_F5hXXwoXkqnUHkkdqA5XVk5c4bFG))
 
 **[🌐 官方网站：hh88hk.hk](https://hh88hk.hk)** - 极速包出款！
 
