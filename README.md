@@ -303,36 +303,6 @@ HH88 嘅優勢係全方位嘅：
 <p><strong>免責聲明：</strong>博彩有風險，請理性參與。本文僅供參考，不構成投資建議。</p>
 </div>
 
-<!-- 动画脚本 -->
-<script>
-// 滚动动画
-document.addEventListener('DOMContentLoaded', function() {
-  const animateElements = document.querySelectorAll('.animate-on-scroll');
-  
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('animated');
-      }
-    });
-  }, {
-    threshold: 0.1,
-    rootMargin: '0px 0px -50px 0px'
-  });
-  
-  animateElements.forEach(element => {
-    observer.observe(element);
-  });
-  
-  // 平滑滚动
-  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-      e.preventDefault();
-      const target = document.querySelector(this.getAttribute('href'));
-      if (target) {
-        target.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start'
         });
       }
     });
