@@ -1,3 +1,5 @@
+![菜鸟图标]([http://static.runoob.com/images/runoob-logo.png](https://github.com/NeroNN-code/hh88/blob/main/180-98.png))
+
 ---
 title: "【HH88香港官方娛樂城】一文睇清：點樣玩盡真人娛樂、拎著數優惠，再用獨家AI數據工具提升勝率！"
 description: "HH88香港官方娛樂城完整攻略，涵蓋真人娛樂、體育博彩、老虎機等遊戲，提供AI預測工具、專業數據分析，助您提升勝率。了解最新優惠活動、註冊流程、安全保障等。"
