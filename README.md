@@ -65,7 +65,7 @@ HH88 徹底解決咗呢個問題。我哋唔單止係一個提供頂級真人百
 
 ### **權威牌照 \+ 獨立審計：我哋唔係「自己人Check自己人」**
 ![logo](https://public.bnbstatic.com/static/content/square/images/f5db488973274759bc0ce2bde34766f6.png)
-HH88 擁有[多項國際權威機構認證](https://hh88hk.hk/about) 8。
+HH88 擁有[多項國際權威機構認證](https://hh88hk.hk/about) 。
 
 <div class="info-box animate-on-scroll">
 <ul>
