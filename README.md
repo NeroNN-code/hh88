@@ -57,7 +57,7 @@ HH88 徹底解決咗呢個問題。我哋唔單止係一個提供頂級真人百
 <a href="#safety" class="cta-button cta-primary">立即開始閱讀</a>
 <a href="https://hh88hk.hk/register" class="cta-button cta-success">立即註冊領獎金</a>
 </div>
-
+![logo](https://public.bnbstatic.com/static/content/square/images/b90b37169e934e94ba0aaf1fd05b13d9.png)
 ---
 
 ## **<span id="safety">安全第一：點解 HH88 係你最「穩陣」嘅選擇？</span>**
@@ -153,7 +153,7 @@ HH88 唔單止自己有 MGA 牌照 8，我哋合作嘅供應商*亦都*有自己
 ### **皇牌推介：AI預測賽事 (準確率高達 78%)**
 
 我哋嘅皇牌「AI預測工具」，利用先進算法分析海量數據，提供高達 72-78% 準確率嘅賽事建議 5。呢個係會員專享功能，用數據講嘢，唔係靠「燈神」。
-
+![AI](https://public.bnbstatic.com/static/content/square/images/e3df41b796a54062a9517fc28fb9e24f.png)
 ### **新手必備：RTF 計算器 & 賠率轉換器**
 
 唔識計咩係「水位」？「RTF計算器」幫你精算回報。睇唔慣歐洲盤？「賠率轉換器」支援 6 種全球主流格式，即時轉做你最熟嘅香港盤 5。
